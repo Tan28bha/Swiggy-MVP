@@ -76,5 +76,3 @@ To evolve this into a **daily life commerce copilot** that can:
 This project demonstrates how **AI agents can move beyond chat** and take **real-world actions on top of commerce platforms** — making everyday tasks faster, smarter, and frictionless.
 
 ---
-* A *landing page copy*
-* Or a *GitHub README that gets attention*
